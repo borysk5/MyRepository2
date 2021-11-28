@@ -1,0 +1,21 @@
+[Toy|toy]
+1esc Thank you for this toy
+giftAdd toy toy.png
+1esd I'll just put it...there
+=
+1esc You've already given me this toy
+[Thermos|thermos]
+1esc Oh! Thermos!
+1esd Now I can bring something to drink when we walk together~
+1esd Thank you, [player]!
+giftAdd thermos thermos.png
+=
+1esc [player]...
+1esc I already have this thermos...
+[Coffee|coffee]
+giftAdd coffee mug.png
+1esb Oh...
+1esb Coffee
+1esb I can't wait to taste it!
+1esb Thank you, [player]!
+giftRemove coffee

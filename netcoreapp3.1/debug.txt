@@ -1,0 +1,3 @@
+Width - 488  ActualWidth: 488 Screen Width: 1920 Left: 1048 Screen Left: 0
+Height - 312,32  ActualHeight: 312 Screen Height: 1030 Top: 512 Screen Top: 0
+
